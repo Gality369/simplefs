@@ -1,0 +1,11 @@
+本项目在Linux v6.8.0内核上实现了一个简单的内核态文件系统，用于学习和实践「如何从零构建一个Linux文件系统」，详细的教程可以参考我的博客：xxx.
+
+This is a simple fs implementation on Linux v6.8.0. More details about design and code can be easily found on my blog: xxx.
+
+
+Ref:
+
+- https://download.samba.org/pub/samba/cifs-cvs/ols2006-fs-tutorial-smf.pdf
+- https://github.com/psankar/simplefs
+- https://accelazh.github.io/filesystem/Writing-a-Kernel-Filesystem
+- https://github.com/accelazh/hellofs
